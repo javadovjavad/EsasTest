@@ -1,5 +1,5 @@
 <?php
-include 'phpQuery.php';
+require 'phpQuery.php';
 
 $url=file_get_contents('http://php.net/manual/en/');
 
